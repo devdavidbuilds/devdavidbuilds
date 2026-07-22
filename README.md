@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚔️ David Prince
+#  David Prince
 
 ### 「 Full Stack Developer • AI Enthusiast • CSE Student 」
 
